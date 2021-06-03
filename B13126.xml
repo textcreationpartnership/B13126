@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation declaring His Maiesties pleasure, in the incorporating of the tradesmen and artificers, inhabiting within three miles of the citie of London.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13126</idno><idno type="EEBO-CITATION">99892622</idno>
+  <idno type="VID">185778</idno>
+  <idno type="EEBO-PROQUEST">2240922603</idno>
+  
+            <idno type="STC">STC 9082</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[51]</idno>
+            <idno type="STC">ESTC S123790</idno>
+            <idno type="PROQUEST">ocm99892622</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892622e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185778)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[51])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation declaring His Maiesties pleasure, in the incorporating of the tradesmen and artificers, inhabiting within three miles of the citie of London.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1636 [i.e. 1637].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: VVestminster, the foure and twentieth day of February, in the twelfth yeere of our reigne. ...</note>
+                  <note>Arms 24; Steele notation: Our places 2) of preiudiced.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Charters, grants, privileges --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185778:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>¶ A Proclamation declaring His Maiesties pleasure, in the Incorporating of the Tradesmen and Artificers, inhabiting within three miles of the Citie of <hi>London.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas a great number of people aswell Aliens as others Our</hi> Subiects borne, who neuer served as Apprentices in any trade, craft, or occupation, haue intruded into places, aswell within Our City of <hi>London,</hi> exempt from the freedome thereof, as without Our said City, and within three miles of the same, And there without restraint or order, haue vsurped, and doe still practise and exercise seuerall Trades, Mysteries, and Handicrafts: By meanes whereof the said places are much pestered with Inmates, and be<g ref="char:EOLhyphen"/>come noisome and contagious, wares are falsifyed and sophistica<g ref="char:EOLhyphen"/>ted, and the Tradesmen and Artificers, aswell within the said places, as within Our Citie of <hi>London,</hi> who haue serued as Ap<g ref="char:EOLhyphen"/>prentices according to Our lawes, are very much impouerished and disabled to maintaine their families.</p>
+            <p>Wee taking the premisses into Our Princely consideration, and resoluing on the best and speediest way of reformation for the good of Our people, and for the remedy of the aforemen<g ref="char:EOLhyphen"/>tioned euils for time to come, haue thought it meet to set a stop to the future confluence and in<g ref="char:EOLhyphen"/>trusion of Forreyners and Aliens into the said places. And for that cause, and for the regula<g ref="char:EOLhyphen"/>ting and more orderly disposing of Trade and Tradesmen there, by the aduice of the Lords and others of Our Priuie Councell, haue by Our Letters Patents vnder Our great Seale of <hi>England,</hi> in such sort as therein is expressed, incorporated the present Tradesmen and Artifi<g ref="char:EOLhyphen"/>cers inhabiting within the same places, who haue serued as Apprentices by the space of seuen yeares, and haue there erected and established a setled Gouernment: Ordaining and declaring by Our said Letters Patents, that no person whatsoeuer, other then the present Tradesmen and Artificers shall from hencefoorth inhabite in the said places, to set up or exercise any Arte, Mystery, Trade, or Occupation, or vse any trading by retaile there, or be admitted into the said Corporation vnlesse he shall first serue as an Apprentice there by the space of seuen yeares.</p>
+            <p>And concerning the said present Tradesmen and Artificers, Wee haue by Our said Letters Patents ordeined and declared, that such of them as haue serued Apprentiships by the space of
+<pb facs="tcp:185778:2"/>seuen yeares, shall foorth with be receiued into the freedome of the said body. And for such of them as being Natiues, haue not serued Apprentiships as aforesaid, in regard the punish<g ref="char:EOLhyphen"/>ment whereunto they are lyable (if Wee should put Our lawes in execution) would much impouerish them, and rather bring a charge upon the Parishes wherein they liue, which are ouerburdened with poore already, then work any reformation for the time to come: We there<g ref="char:EOLhyphen"/>fore, out of Our Princely care for their ease and welfare, by Our said Letters Patents haue further ordered, That they also may be admitted into the said Freedome, in such manner, as by Our said Letters Patents is ordained; And after such admittance, shall, and may freely vse their Trades within the said places during their naturall liues.</p>
+            <p>And as for such Aliens, as haue for some reasonable time, openly vsed and exercised Trades within the said places, We haue further by Our said Letters Patents, declared Our gracious Will and Pleasure to be; That such of the said present Aliens there inhabiting, as shall bee found fit to partake of this Our Grace and Fauour, and will submit themselues to be regula<g ref="char:EOLhyphen"/>ted and ordered by Our Lawes, and the Constitutions of the said Corporation, may also bee admitted into the Communalty and Freedome of the said Body, accordingly as is ordai<g ref="char:EOLhyphen"/>ned by Our said Letters Patents; And after such admittance, shall, and may freely vse their Trades there, during their naturall liues: And that no other Alien shall from henceforth be admitted into the said Freedome.</p>
+            <p>And to the end, that so great care by Vs taken, for the generall good and welfare of Our People inhabiting the said places may not bee frustrate; Our Will and Pleasure is, That all the said Tradesmen and Artificers, now inhabiting in the said places, and intending there to continue, be forthwith admitted into the said Freedome. And that no person or per<g ref="char:EOLhyphen"/>sons whatsoeuer, shall after the Feast of <hi>All Saints</hi> next insuing, vse or exercise any Trade, Mystery, Craft, Occupation, or trading by Retaile in the places aforesaid, vnlesse hee, or they bee admitted into the said Freedome, vpon paine of Our Indignation, and such fur<g ref="char:EOLhyphen"/>ther punishment, as We by Our Lawes, and the Statutes of this Our Realme, or by Our Prerogatiue Royall may inflict vpon the Contemners of Our Royall Will and Pleasure.</p>
+            <p>And for the more speedy effecting the great good hereby intended, it is Our expresse Will and Pleasure, That the Church-wardens, Constables, and other Officers of the seuerall Parishes and Precincts, within the places aforesaid, do forthwith deliuer vnto the Chamberlaines of the said Corporation, the names and sirnames of all the present inhabitants, within their re<g ref="char:EOLhyphen"/>spectiue Parishes and Precincts, who now exercise any Trade, Mystery, Craft, Occu<g ref="char:EOLhyphen"/>pation, or dealing by Retaile there, as also the places of their abode, and what Trade euery of them doth vse: That so the names of the present Tradesmen and Artificers, and places of their abode being knowne, the intrusion of others may the better be preuented, and discouered in time to come.</p>
+            <p>Lastly, We do hereby declare, That in all the Premisses, Our Royall care hath been, not to alter or infringe the present formes of Gouernment already established within any of the said places; but only to affoord Our Royall assistance, for the ease and reliefe of Our good Sub<g ref="char:EOLhyphen"/>iects, in cases already not prouided for. And therefore by Our said Letters Patents Wee haue prouided, That the Iurisdiction and forme of Gouernment, heretofore established within Our City of <hi>London,</hi> Our City of <hi>Westminster,</hi> the Borough of <hi>Southwark,</hi> Our Tower of <hi>London,</hi> the Liberties and Precincts thereof, or elsewhere within the places aforesaid, and the Priuiledges, Immunities and Rites of them, or any of them; and also the Liberties, Priuiledges, Immunities and Rites heretofore granted to the Deane and Chapter of the Collegiate Church of S. <hi>Peter Westminster,</hi> or by them, or their high Steward for the time being, lawfully vsed, shall not by Our said Letters Patents be any wayes infringed or preiudiced.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Palace at Westminster, </hi>
+                  <date>
+                     <hi>the foure and twentieth day of February, in the twelfth yeere of Our Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie: And by the Assignes of IOHN BILL. 1636.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
